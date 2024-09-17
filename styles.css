@@ -1,0 +1,27 @@
+/*
+* {
+ border:1px solid red;
+}
+*/
+
+.header {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    color:#F9FAF8;
+    
+}
+
+.links {
+    font-size: 18px;
+    color: #E5E7EB;
+    display:flex;
+    justify-content: flex-end;
+    gap: 10px;
+}
